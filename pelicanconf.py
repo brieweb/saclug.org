@@ -3,8 +3,8 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = 'SacLUG Board Members'
-SITENAME = u'Sacramento Linux Users’ Group'
+AUTHOR = 'NBLUG Board Members'
+SITENAME = u'North Bay Linux Users’ Group'
 
 # Default to the devserver address.
 SITEURL = os.environ.get('SITEURL', 'http://localhost:8000')
