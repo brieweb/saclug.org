@@ -27,23 +27,23 @@ def sanitize(s):
     return "-".join("".join(c if c in safe else " " for c in s).lower().split())
 
 
-def next_second_tuesday(today: date) -> date:
+def next_third_tuesday(today: date) -> date:
     """
-    >>> next_second_tuesday(date(2015, 3, 1))
-    date(2015, 3, 10)
-    >>> next_second_tuesday(date(2014, 10, 20))
-    date(2014, 11, 11)
-    >>> next_second_tuesday(date(2014, 11, 11))
-    date(2014, 11, 11)
-    >>> next_second_tuesday(date(2014, 12, 29))
-    date(2015, 1, 13)
+    >>> next_third_tuesday(date(2015, 3, 1))
+    date(2015, 3, 17)
+    >>> next_third_tuesday(date(2014, 10, 20))
+    date(2014, 10, 21)
+    >>> next_third_tuesday(date(2014, 11, 11))
+    date(2014, 11, 18)
+    >>> next_third_tuesday(date(2014, 12, 29))
+    date(2015, 1, 20)
     """
     d = today.replace(day=1)
     tuesdays = 0
     while True:
         if d.weekday() == TUESDAY:
             tuesdays += 1
-        if tuesdays >= 2:
+        if tuesdays >= 3:
             break
         d = d + timedelta(days=1)
     if d < today:
@@ -53,7 +53,7 @@ def next_second_tuesday(today: date) -> date:
         while True:
             if d.weekday() == TUESDAY:
                 tuesdays += 1
-            if tuesdays >= 2:
+            if tuesdays >= 3:
                 break
             d = d + timedelta(days=1)
     return d
@@ -87,7 +87,7 @@ def main():
     talk_date = date.fromisoformat(
         prompt(
             "What's the date of the talk?",
-            default=next_second_tuesday(date.today()).isoformat(),
+            default=next_third_tuesday(date.today()).isoformat(),
         )
     )
     if is_hackfest:
