@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/twm/nblug.org.svg?branch=master)](https://travis-ci.org/twm/nblug.org)
 
-This is the nblug.org web site.
+This is the saclug.org web site.
 It's static HTML, built from [Markdown][markdown] files in the ``content/`` directory using [Pelican][pelican].
 
 [markdown]: https://en.wikipedia.org/wiki/Markdown
@@ -49,14 +49,14 @@ These files start with a metadata header in which we place some NBLUG-specific d
 A blank line follows this header, then the talk description in Markdown format (which may include embedded HTML if necessary).
 For example, ``content/news/2016-11-20-strfry.md``:
 
-    Title: Data Security with strfry()
+    Title: Something Java
     Tags: general meeting
     Event: 2016-12-25 7:30 pm to 9:00 pm
-    Speaker: Kyle Rankin
-    Location: O'Reilly Media
-    Author: Alan Cecil
+    Speaker: Linus Sphinx
+    Location: Exit Certified
+    Author: Brian Lavender
 
-    This talk will cover a frequently-overlooked security feature of the GNU C library: the ability to apply one-way encryption to NUL-terminated strings.
+   Linus will talk about his something something game development in Java.
 
 In this example, the ``Speaker`` field is for the name of the presenter, while the ``Author`` field contains the name of the poster—that is, *your name*.
 
@@ -78,7 +78,7 @@ When migrating pages from the Drupal site, an additional metadata field can be u
 
 You can get this value from the URL of the page, which will look something like this:
 
-    http://nblug.org/node/<number>
+    http://saclug.org/node/<number>
 
 See ``content/news/2011-11-08-gpu-password-cracking-election.md`` for an example of this.
 
