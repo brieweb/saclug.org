@@ -1,8 +1,8 @@
-# NBLUG.org
+# SACLUG.org
 
 [![Build Status](https://travis-ci.org/twm/nblug.org.svg?branch=master)](https://travis-ci.org/twm/nblug.org)
 
-This is the nblug.org web site.
+This is the saclug.org web site.
 It's static HTML, built from [Markdown][markdown] files in the ``content/`` directory using [Pelican][pelican].
 
 [markdown]: https://en.wikipedia.org/wiki/Markdown
@@ -78,7 +78,7 @@ When migrating pages from the Drupal site, an additional metadata field can be u
 
 You can get this value from the URL of the page, which will look something like this:
 
-    http://nblug.org/node/<number>
+    http://saclug.org/node/<number>
 
 See ``content/news/2011-11-08-gpu-password-cracking-election.md`` for an example of this.
 
@@ -92,8 +92,8 @@ For these, use the event date instead.
 If you are seeing messages like these, they indicate that the "slug" (name to use in the page URL) collides with another article:
 
     WARNING: There are 2 variants of "hackfest" with lang en
-    WARNING:     /home/twm/nblug.org/content/news/2011-04-12-hackfest.md
-    WARNING:     /home/twm/nblug.org/content/news/2012-01-10-hackfest.md
+    WARNING:     /home/twm/saclug.org/content/news/2011-04-12-hackfest.md
+    WARNING:     /home/twm/saclug.org/content/news/2012-01-10-hackfest.md
 
 You can fix this by adding a ``Slug`` metadata field at the top of the file.
 For a hackfest, try adding the year so that the whole like looks something like this:
