@@ -7,7 +7,17 @@ We currently meet at <a href=https://www.kuproscrafthouse.com/">Kupros Craft Hou
   <span itemprop="streetAddress">1217 21st Street</span><br>
   <span itemprop="addressLocality">Sacramento</span>,
   <span itemprop="addressRegion">CA</span>
-  <span itemprop="postalCode">95811</span>
+  <span itemprop="postalCode">95811</span><br>
+  <span itemprop="country">United States</span>,
+  <span itemprop="planet">Earth</span><br>
+  <span itemprop="solarSystem">3rd Planet Inner Solar System</span>,
+  <span itemprop="galacticArm">Orion Arm</span><br>
+  <span itemprop="galaxy">Milky Way</span>,
+  <span itemprop="superCluster">Virgo Supercluster</span><br>
+  <span itemprop="superCluster">Laniakea Supercluster</span><br><br>
+Or if you want some earth relative coordinates:
+  <br><br><span itemprop="plusCode">HGFC+95 Sacramento, California</span><br>
+  <span itemprop="geoCoridinates">38.57343,-121.47951</span><br>
 </div>
 
 
@@ -19,7 +29,6 @@ please send suggestions to the mailing list.</i>
 <a href="https://www.google.com/maps/place/Kupros+Craft+House/@38.5734472,-121.4795518,17z/data=!3m1!4b1!4m6!3m5!1s0x809ad0c3345560c1:0x41f524e66b77f211!8m2!3d38.5734472!4d-121.4795518!16s%2Fg%2F1tfkr03s">Google Maps</a>
 &bull; <a href="https://www.mapquest.com/us/california/kupros-craft-house-265534422">MapQuest</a>
 &bull; <a href="https://wego.here.com/p/eJyNULtOwzAU%2FRXLE0hO5UccJ94gC4ixwO7aN8WSiYPtCEVV%2Fx23KgsTw9HVPa%2FhnLCxFnLG%2BoSDKViLfieVaAXBYT5i3TDOdq0aJDsTbJxLVy9%2BWZcUM3r0uaRIUDUpxFkuaF8I2hubzCfMpSrjAxpkz1jTcjoQ9Db7Aq66TIGMCbb1HmPanl0tZZQ2FbSpYBcxrnNJ2xgdVLUS%2FuL6gAR6cVkvwVjQfUuHLwuq4XJishfGdKZrRXfonWCTktYe6MQU5zV%2FTbxuy61uicEXb0149%2FD9S%2BVKxflfcxRfAvwdA93d3jGZqaCnuGa4x%2BcfC%2FRqyg%3D%3D?map=38.57343,-121.47951,16,omv">HERE Maps</a>
-&bull; <a>HGFC+95 Sacramento, California</a>
 
 Kupros is located in Midtown Sacramento, on the corner of 21st & Liestal Alley.
 

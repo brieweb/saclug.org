@@ -111,9 +111,9 @@ def main():
     lines = [
         f"Title: {title}",
         "Tags: general meeting",
-        f"Event: {talk_date:%Y-%m-%d} 7:00 pm to 8:30 pm",
-        f"Speaker: {speaker}" if speaker else None,
-        "Location: Flagship Taproom",
+        f"Event: {talk_date:%Y-%m-%d} 6:30 pm to 9:00 pm",
+        f"Speaker(s): {speaker}" if speaker else None,
+        "Location: Kupros Craft House",
         f"Author: {author}",
         f"Slug: {talk_date.strftime('%B-%Y').lower()}",
         "",

@@ -1,4 +1,4 @@
-Title: NBLUG Bylaws
+Title: SacLUG Bylaws
 Slug: bylaws
 
 ## Article I: Officers and Elections
@@ -11,7 +11,7 @@ It is only the duty of the officer in question to make
 sure somebody does it.
 
 i: President is the glue that keeps it all together. She/he
-tries to keep NBLUG on track. Duties of the president shall include:
+tries to keep SacLUG on track. Duties of the president shall include:
 
 > a: To set the agenda for meetings
 >
@@ -22,7 +22,7 @@ tries to keep NBLUG on track. Duties of the president shall include:
 >
 > d: Share responsibility of duties assigned to absent officers
 
-ii: Vice President does all the stuff that keeps NBLUG running. The
+ii: Vice President does all the stuff that keeps SacLUG running. The
 duties of Vice President shall include:
 
 > a: Making preparations for the meeting, including coordinating the
@@ -62,10 +62,10 @@ Duties are determined after the election, but can include:
 
 > a: Public Relations - work with the media to "get the word out"
 >
-> 1. Publicize NBLUG meetings, and events like installfests
-> 2. Represent NBLUG in a positive light as an open organization that does not discriminate based on sex, race, creed, religion, sexual orientation, political affiliation, economic standing, employer,
+> 1. Publicize SacLUG meetings, and events like installfests
+> 2. Represent SacLUG in a positive light as an open organization that does not discriminate based on sex, race, creed, religion, sexual orientation, political affiliation, economic standing, employer,
 > 3. Contact various media organizations such as newspapers, magazines, SRJC, and
->    SSU to publicize NBLUG events
+>    SSU to publicize SacLUG events
 > 4. Share responsibility of duties assigned to absent officers
 > 5. Other duties as assigned
 >
@@ -106,9 +106,9 @@ election available to all members.
 ### Section 4: Impeachment - removing an officer
 
 If a motion for impeachment is made by an elected officer, and seconded
-by another elected officer, a special vote available to all NBLUG members
+by another elected officer, a special vote available to all SacLUG members
 may proceed. An announcement of the special vote for all members shall
-be made on all NBLUG mailing lists, posted on the main page of the
+be made on all SacLUG mailing lists, posted on the main page of the
 website, and announced at the next general meeting. The first day of
 voting shall be the next immediate general meeting. Voting period for
 such a special vote shall be two weeks (14 days.) If a majority of
@@ -142,7 +142,7 @@ meeting after the meeting during which they are elected.
 
 ### Section 1: Bylaws Location
 
-The bylaws shall be publicly posted on NBLUG's website.
+The bylaws shall be publicly posted on SacLUG's website.
 
 ### Section 2: Alterations to Bylaws
 
@@ -162,13 +162,13 @@ bylaw being changed.
 
 ii: Minor additions and deletions will need to be brought to an informal
 vote by all the officers (majority wins) to see if the change is
-minor enough to implement without a general NBLUG vote.
+minor enough to implement without a general SacLUG vote.
 
 ## Article III: Meetings
 
 ### Section 1: When and Where
 
-Meetings will be held on the 2nd Tuesday of every month, in the evening.
+Meetings will be held on the 3rd Tuesday of every month, in the evening.
 If a large number of members have an objection to the date of a meeting,
 president and Vice President may opt to choose a different date, but
 this should ideally be taken care of prior to the publication of
@@ -197,7 +197,7 @@ unable to attend a board meeting to make a required report, their
 report may be presented by another committee member they designate,
 or presented by president.
 In either case, they should provide a written report to our board
-list: <board@nblug.org> and/or to the scribe.
+list: <board@saclug.org> and/or to the scribe.
 
 ## Article IV: Committees
 
@@ -226,16 +226,16 @@ replacement so as to make the transition as easy as possible.
 President may dissolve a committee at any time. It is recommended that
 committees that have completed their assigned task, or whose task is
 found to be unachievable, be dissolved. President's decision to dissolve
-a committee may be overruled by a majority vote either of NBLUG as a
+a committee may be overruled by a majority vote either of SacLUG as a
 whole, or of the committee's membership.
 
 ## Article V: Events
 
 Members attending the event are requested to remember that they are
-representing NBLUG, and not behave in a manner that may tarnish the club's
+representing SacLUG, and not behave in a manner that may tarnish the club's
 image. People encountered in the course of the event with differing views
 and differing OSes should be treated with dignity and respect despite their
-somewhat questionable tastes. Remember, NBLUG will not bail you out of
+somewhat questionable tastes. Remember, SacLUG will not bail you out of
 jail, so please cooperate with any relevant authority figures. Protests
 should be kept off the property of the protestee and not block the entryway
 to their place of business.
@@ -243,7 +243,7 @@ to their place of business.
 ## Article VI: Grievances
 
 Anyone with a grievance against an officer, committee chair, another
-member, or NBLUG as a whole is asked to first try to resolve the matter
+member, or SacLUG as a whole is asked to first try to resolve the matter
 informally with the person(s) involved. If this fails, however, they are
 invited to institute a formal grievance during the discussion forum.
 When instituting a formal grievance, it is advisable to write down all
