@@ -101,3 +101,22 @@ For a hackfest, try adding the year so that the whole like looks something like 
     Slug: hackfest-2014
 
 Note that this will change the URL of the page, so it's best to catch this *before* publishing the article.
+
+## Mirror pages
+
+SacLUG repository info
+
+```
+site: saclug.org
+user: saclug
+folder: /home/saclug/saclug.org
+```
+
+Mirror using lftp command. You will need the site password.
+
+```
+$ lftp
+~> open -u saclug.org sftp://saclug.org/home/saclug/saclug.org
+~> mirror -R output .
+```
+
