@@ -116,7 +116,7 @@ Mirror using lftp command. You will need the site password.
 
 ```
 $ lftp
-~> open -u saclug.org sftp://saclug.org/home/saclug/saclug.org
+~> open -u saclug sftp://saclug.org/home/saclug/saclug.org
 ~> mirror -R output .
 ```
 
