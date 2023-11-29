@@ -1,29 +1,30 @@
-Title: NBLUG Constitution
+Title: SacLUG Constitution
 Slug: constitution
 
 ## Article 1: Name
 
-Our club's name is the "North Bay Linux Users' Group" or "NBLUG" for short.
+Our club's name is the "Sacramento Linux Users Group" or "SacLUG" for short.
 
 ## Article 2: Purpose
 
 Our purposes are:
 
 1. To promote the Linux operating system, Free Software, Open
-   Source, and open standards, in the area North of San Francisco serving
-   Sonoma County and residents of neighboring counties.
+   Source, and open standards, in the Greater Sacramento Valley
+   including but not limited to the Republic of Davis.
 
-2. To provide a social setting in which Linux-using residents of the North Bay
-   can meet each other to share ideas, technical know-how and friendship.
+2. To provide a social setting in which Linux-using residents of of the 
+   Sacramento Valley can meet each other to share ideas,
+   technical know-how and friendship.
 
-3. To provide a support network for residents of the North Bay Area in
+3. To provide a support network for residents of the Sacramento Valley in
    use and maintenance of Linux and UNIX operating systems.
 
 4. To contribute to the free software community at large.
 
 ## Article 3: Membership
 
-Everyone can attend NBLUG meetings and serve as officers of NBLUG,
+Everyone can attend SacLUG meetings and serve as officers of SacLUG,
 unconditionally. We don't discriminate or exclude people from
 membership or officership for any reason whatsoever. There are no
 exceptions to this rule. In accordance to California state law, we don't haze.
@@ -35,7 +36,7 @@ subscribing to the mailing list(s).
 
 ### Section 1: Constitution Location
 
-The official constitution's location is <http://www.nblug.org/constitution>
+The official constitution's location is <http://www.saclug.org/constitution>
 
 ### Section 2: Constitutional Amendment
 
