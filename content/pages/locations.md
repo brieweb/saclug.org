@@ -37,7 +37,7 @@ area of the store. The S.E.G.R. is located behind the frosted glass doors on the
   <source srcset="/images/bel_air_meeting_rm_320.avif 320w, /images/bel_air_meeting_rm_640.avif 640w, /images/bel_air_meeting_rm_720.avif 720w, /images/bel_air_meeting_rm_1280.avif 1280w, /images/bel_air_meeting_rm.avif 1920w" type="image/avif" />
   <source srcset="/images/bel_air_meeting_rm_320.webp 320w, /images/bel_air_meeting_rm_640.webp 640w, /images/bel_air_meeting_rm_720.webp 720w, /images/bel_air_meeting_rm_1280.webp 1280w, /images/bel_air_meeting_rm.webp 1920w" type="image/webp" />
   <source srcset="/images/bel_air_meeting_rm_320.jpg 320w, /images/bel_air_meeting_rm_640.jpg 640w, /images/bel_air_meeting_rm_720.jpg 720w, /images/bel_air_meeting_rm_1280.jpg 1280w, /images/bel_air_meeting_rm.jpg 1920w" type="image/jpg" />
-<img src="/images/bel_air_meeting_rm.jpg" alt="interior of Bel Air #502 with arrow and text pointing to frosted glass doors of meeting room"/>
+<img style="width: 100%; height: auto;" src="/images/bel_air_meeting_rm.jpg" alt="interior of Bel Air #502 with arrow and text pointing to frosted glass doors of meeting room"/>
 </picture>
 
 
