@@ -113,7 +113,7 @@ def main():
         "Tags: general meeting",
         f"Event: {talk_date:%Y-%m-%d} 6:30 pm to 9:00 pm",
         f"Speaker: {speaker}" if speaker else None,
-        "Location: Kupros Craft House",
+        "Location: Bel Air #502 S.E.G.R.",
         f"Author: {author}",
         f"Slug: {talk_date.strftime('%B-%Y').lower()}",
         "",
