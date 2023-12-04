@@ -168,6 +168,8 @@ header :visited:focus {
 }
 
 footer {
+    grid-column: 1;
+    grid-row: 5;
     clear: both; /* Below the main columns */
     background: white;
     color: #444;
@@ -180,9 +182,14 @@ footer :visited {
 }
 
 @media (max-aspect-ratio: 2/3 ) {
+
+   #wrap {
+        grid-template-columns: 1fr;
+	max-width: 100%;
+   }
     #sidebar{
-	grid-row: 4;
 	grid-column: 1;
+	grid-row: 4;
         display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
     }
