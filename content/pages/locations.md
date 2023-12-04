@@ -34,9 +34,9 @@ Bel Air #502 is located directly the across the street from the Whole Foods. Ent
 area of the store. The S.E.G.R. is located behind the frosted glass doors on the left.
 
 <picture>
-  <source srcset="/images/bel_air_meeting_rm_320.avif 320w, /images/bel_air_meeting_rm_640.avif 640w, /images/bel_air_meeting_rm_720.avif 720w, /images/bel_air_meeting_rm_1280.avif 1280w, /images/bel_air_meeting_rm.avif 1920w" type="image/avif" />
-  <source srcset="/images/bel_air_meeting_rm_320.webp 320w, /images/bel_air_meeting_rm_640.webp 640w, /images/bel_air_meeting_rm_720.webp 720w, /images/bel_air_meeting_rm_1280.webp 1280w, /images/bel_air_meeting_rm.webp 1920w" type="image/webp" />
-  <source srcset="/images/bel_air_meeting_rm_320.jpg 320w, /images/bel_air_meeting_rm_640.jpg 640w, /images/bel_air_meeting_rm_720.jpg 720w, /images/bel_air_meeting_rm_1280.jpg 1280w, /images/bel_air_meeting_rm.jpg 1920w" type="image/jpg" />
+  <source srcset="/images/bel_air_meeting_rm_320.avif 320w, /images/bel_air_meeting_rm_480.avif 480w, /images/bel_air_meeting_rm_640.avif 640w, /images/bel_air_meeting_rm_720.avif 720w, /images/bel_air_meeting_rm_1280.avif 1280w, /images/bel_air_meeting_rm.avif 1920w" type="image/avif" sizes="(max-width: 720px) 480px, (max-width: 1280px) 640px, (max-width: 2560px) 1280px"/>
+  <source srcset="/images/bel_air_meeting_rm_320.webp 320w, /images/bel_air_meeting_rm_480.webp 480w, /images/bel_air_meeting_rm_640.webp 640w, /images/bel_air_meeting_rm_720.webp 720w, /images/bel_air_meeting_rm_1280.webp 1280w, /images/bel_air_meeting_rm.webp 1920w" type="image/webp" sizes="(max-width: 720px) 480px, (max-width: 1280px) 640px, (max-width: 2560px) 1280px"/>
+  <source srcset="/images/bel_air_meeting_rm_320.jpg 320w, /images/bel_air_meeting_rm_480.jpg 480w, /images/bel_air_meeting_rm_640.jpg 640w, /images/bel_air_meeting_rm_720.jpg 720w, /images/bel_air_meeting_rm_1280.jpg 1280w, /images/bel_air_meeting_rm.jpg 1920w" type="image/jpg" sizes="(max-width: 720px) 480px, (max-width: 1280px) 640px, (max-width: 2560px) 1280px"/>
 <img style="width: 100%; height: auto;" src="/images/bel_air_meeting_rm.jpg" alt="interior of Bel Air #502 with arrow and text pointing to frosted glass doors of meeting room"/>
 </picture>
 

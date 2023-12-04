@@ -4,8 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/normalize.css">
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/nblug.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/saclug.css">
   <link rel="alternate home" type="application/atom+xml" title="SacLUG News and Events"
         href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}">
 </head>
@@ -13,7 +12,13 @@
 <body>
 <div id="wrap">
     <div id="masthead">
-        <a href="/"><img src="/theme/images/saclug.png" height="71" width="276" alt="Sacramento Linux Users’ Group"></a>
+        <a href="/">
+		<picture>
+			<source srcset="/theme/images/saclug_240.png 240w, /theme/images/saclug_320.png 320w, /theme/images/saclug_480.png 480w, /theme/images/saclug_640.png 640w, /theme/images/saclug.png 877w" type="image/png" sizes="(max-width: 1200px) 240px, (max-width: 1280px) 320px, (max-width: 1920px) 480px, (max-width: 2560px) 640px"/>
+			<img src="/theme/images/saclug.png" alt="Sacramento Linux Users’ Group">
+		</picture>
+	</a>
+
     </div>
     <nav>
         {% for link_title, link_url in MENUITEMS %}
