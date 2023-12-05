@@ -28,6 +28,8 @@ body {
 }
 
 nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-row: 2;
     padding: 0.5em 0;
 }
@@ -193,4 +195,9 @@ footer :visited {
         display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
     }
+#masthead img {
+    width: 35vw;
+}
+
+
 }
