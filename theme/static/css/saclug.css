@@ -9,10 +9,12 @@
  */
 
 body {
+    margin-top: 1em;
+/*    margin: 0 auto;*/
     background: white;
     color: #111;
     font: 14px/1.5 "Liberation Sans", "Helvetica", "Arial", sans-serif;
-    padding: 16px;
+/*    padding: 16px;*/
 }
 #wrap {
     display: grid;
@@ -52,8 +54,15 @@ main {
 }
 #sidebar {
     grid-column: 2;
+    display: grid;
+    row-gap: 5px;
     font-size: smaller;
     margin: 0.5em;
+    height: min-content;
+}
+#sidebar section {
+	border: solid rgba(128, 128, 128, .6) 1px;
+	padding: 1em;
 }
 
 #sidebar h2 {
@@ -183,7 +192,7 @@ footer :visited {
     color: inherit;
 }
 
-@media (max-aspect-ratio: 2/3 ) {
+@media (max-aspect-ratio: 4/3 ) {
 
    #wrap {
         grid-template-columns: 1fr;
@@ -192,11 +201,12 @@ footer :visited {
     #sidebar{
 	grid-column: 1;
 	grid-row: 4;
-        display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-    }
+	column-gap: 5px;
+  }
+
 #masthead img {
-    width: 35vw;
+    width: 45vw;
 }
 
 
