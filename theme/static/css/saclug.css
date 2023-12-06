@@ -26,7 +26,8 @@ body {
 #masthead img {
     grid-row: 1;
     display: block;
-    width: 20vw;
+/*    width: 20vw;*/
+    width: 276px;
 }
 
 nav {
@@ -206,7 +207,7 @@ footer :visited {
   }
 
 #masthead img {
-    width: 45vw;
+/*    width: 45vw;*/
 }
 
 
