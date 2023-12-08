@@ -11,7 +11,6 @@
 body {
     margin-top: 1em;
 /*    margin: 0 auto;*/
-    background: white;
     color: #111;
     font: 14px/1.5 "Liberation Sans", "Helvetica", "Arial", sans-serif;
 /*    padding: 16px;*/
@@ -26,7 +25,6 @@ body {
 #masthead img {
     grid-row: 1;
     display: block;
-/*    width: 20vw;*/
     width: 276px;
 }
 
@@ -53,6 +51,13 @@ nav a:hover {
 main {
     grid-column: 1;
 }
+
+article {
+    border: solid rgba(128, 128, 128, .6) 1px;
+    margin-top: 1em;
+    padding-left: 1em;
+}
+
 #sidebar {
     grid-column: 2;
     display: grid;
@@ -87,7 +92,6 @@ main {
 }
 
 #sponsors {
-    background: white;
 }
 #sponsors img {
     display: block;
@@ -183,8 +187,7 @@ footer {
     grid-column: 1;
     grid-row: 5;
     clear: both; /* Below the main columns */
-    background: white;
-    color: #444;
+    color: slategrey;
     font-size: smaller;
     padding: 1px solid 
 }
@@ -194,7 +197,6 @@ footer :visited {
 }
 
 @media (max-aspect-ratio: 4/3 ) {
-
    #wrap {
         grid-template-columns: 1fr;
 	max-width: 100%;
@@ -205,10 +207,45 @@ footer :visited {
 	grid-template-columns: 1fr 1fr 1fr;
 	column-gap: 5px;
   }
-
-#masthead img {
-/*    width: 45vw;*/
 }
 
+@media (prefers-color-scheme: dark) {
+ body, .label, .see_more {
+   background: #333;
+   color: #ddd;
+ }
+ .wrong, .lotsofpatches, .invalid_url, .version-needs-update, .cpe-nok, .cve-nok {
+   background: darksalmon;
+   color: black;
+ }
+ .correct, .nopatches, .good_url, .version-good, .cpe-ok, .cve-ok {
+   background: darkseagreen;
+   color: black;
+ }
+ .somepatches, .missing_url, .version-unknown, .cpe-unknown, .cve-unknown {
+   background: burlywood;
+   color: black;
+ }
+ .cve_ignored, .version-error {
+   background: slategrey;
+   color: black;
+ }
 
+ p :link {
+   color: CornFlowerBlue;
+}
+ p :visited {
+   color: Orchid;
+}
+
+ li :link {
+   color: CornFlowerBlue;
+}
+ li :visited {
+   color: Orchid;
+}
+#about {
+background: #12356;
+
+}
 }
