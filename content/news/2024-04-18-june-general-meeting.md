@@ -10,16 +10,16 @@ We will be back at Bel Aire in their meeting room.
 
 ## Full Stack Development with React
 
-We will walk through various aspects of the [Full Stack Development with Spring Boot and React](https://www.packtpub.com/product/full-stack-development-with-spring-boot-and-react/9781803234588) using Fedora 40.
+We will walk through various aspects of the [Full Stack Development with Spring Boot and React](https://www.packtpub.com/product/full-stack-development-with-spring-boot-and-react-third-edition/9781801816786) using Fedora 40.
 
 [Examples](https://github.com/PacktPublishing/Full-Stack-Development-with-Spring-Boot-and-React.git)
 
 ## Tools in use
 
-1. Eclipse
-2. VS Code
-3. MySQL
-4. Postman
+1. [Eclipse](https://www.eclipse.org)
+2. [VS Code](https://code.visualstudio.com/)
+3. MariaDB `sudo dnf install mariadb-server`
+4. [Postman](https://www.postman.com/downloads/)
 5. [nvm](https://github.com/nvm-sh/nvm)
 6. [Mysql JDBC driver](https://mvnrepository.com/artifact/mysql/mysql-connector-java/5.1.49)
 7. Fedora Java Alternatives
