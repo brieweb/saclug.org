@@ -10,19 +10,20 @@ We will be back at Bel Aire in their meeting room.
 
 ## Full Stack Development with React
 
-We will walk through various aspects of the [Full Stack Development with Spring Boot and React](https://www.packtpub.com/product/full-stack-development-with-spring-boot-and-react-third-edition/9781801816786) using Fedora 40.
+We will walk through various aspects of the [Full Stack Development with Spring Boot and React](https://www.packtpub.com/product/full-stack-development-with-spring-boot-and-react-third-edition/9781801816786) using [Fedora 40](https://fedoraproject.org/workstation/download).
 
 [Examples](https://github.com/PacktPublishing/Full-Stack-Development-with-Spring-Boot-and-React.git)
 
 ## Tools in use
 
+1. [Fedora 40](https://fedoraproject.org/workstation/download)
 1. [Eclipse](https://www.eclipse.org)
 2. [VS Code](https://code.visualstudio.com/)
 3. MariaDB `sudo dnf install mariadb-server`
 4. [Postman](https://www.postman.com/downloads/)
 5. [nvm](https://github.com/nvm-sh/nvm)
 6. [Mysql JDBC driver](https://mvnrepository.com/artifact/mysql/mysql-connector-java/5.1.49)
-7. Fedora Java Alternatives
+7. [Fedora Java Alternatives](https://fedoraproject.org/wiki/Java#Switching_alternatives)
 
 Create the database and the user
 
@@ -63,5 +64,45 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 ```
 
+Start database
+
+```
+sudo service mariadb start
+```
+
+Check that user can connect to MariaDB
+
+```
+mysql -u brian -p cardb
+```
+
+Import [Chapter 5 example code](https://github.com/PacktPublishing/Full-Stack-Development-with-Spring-Boot-and-React/tree/main/Chapter05) and modify `SecurityConfig.java` per book [Hinkula,238]. We will not have security settings for this **demonstration**. 
+
+
+```
+http.csrf().disable().cors().and()
+	.authorizeRequests().anyRequest().permitAll();
+```
+
+Update `application.properties`
+
+Start `CarDatabaseApplication.java`.
+
+Verify [REST interface](http://localhost:8080/api/cars/) for cars with PostMan
+
+Check npm conifuguration. Create `carfront` skeleton and install 
+library dependencies [Hinkula,239].
+
+```
+npx create-react-app carfront
+cd carfront
+npm install @mui/material @emotion/react @emotion/styled
+```
+
+Add the `components` folder to `carfront` project [Hinkula,245]. Create
+`Carlist.js` and add content.
+
+Verify that the Spring Boot backend is running `CardatabaseApplication`.
+Start the React application from the terminal `npm start`.
 
 Brian
