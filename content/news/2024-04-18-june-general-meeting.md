@@ -10,7 +10,7 @@ We will be back at Bel Aire in their meeting room.
 
 ## Full Stack Development with React
 
-We will walk through various aspects of the [Full Stack Development with Spring Boot and React](https://www.packtpub.com/product/full-stack-development-with-spring-boot-and-react/9781803234588).
+We will walk through various aspects of the [Full Stack Development with Spring Boot and React](https://www.packtpub.com/product/full-stack-development-with-spring-boot-and-react/9781803234588) using Fedora 40.
 
 [Examples](https://github.com/PacktPublishing/Full-Stack-Development-with-Spring-Boot-and-React.git)
 
