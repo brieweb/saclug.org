@@ -1,6 +1,6 @@
 Title: September General Meeting
 Tags: general meeting
-Event: 2024-09-17 6:30 pm to 9:00 pm
+Event: 2024-09-17 6:00 pm to 8:00 pm
 Speaker: Brian E. Lavender and Diego Martinez
 Location: Bel Air #502 S.E.G.R.
 Author: Brian E. Lavender
