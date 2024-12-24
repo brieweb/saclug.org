@@ -1,12 +1,12 @@
 Title: December General Meeting
 Tags: general meeting
-Event: 2024-12-17 6:00 pm to 8:00 pm
+Event: 2025-02-18 6:00 pm to 8:00 pm
 Speaker: Diego Martinez
-Location: Bel Aire Market
+Location: Bel Air Market
 Author: Brian E. Lavender
 Slug: february-2025
 
-We will be at Bel Aire Market at Arden. Please see the locations link to
+We will be at Bel Air Market at Arden. Please see the locations link to
 see the location.
 
 Diego will present Web services in Clojure with Compojure.
