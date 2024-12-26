@@ -9,6 +9,5 @@ Slug: february-2025
 We will be at Bel Aire Market at Arden. Please see the locations link to 
 see the location. 
 
-Diego will present clojure.
+Diego will present [clojure](https://clojure.org/).
 
-favorite project or questions (maybe we can answer), and socialize.
