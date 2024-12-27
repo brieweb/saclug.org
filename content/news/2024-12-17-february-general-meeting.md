@@ -1,6 +1,6 @@
 Title: February General Meeting
 Tags: general meeting
-Event: 2025-12-18 6:00 pm to 8:00 pm
+Event: 2025-02-18 6:00 pm to 8:00 pm
 Speaker: Diego Martinez
 Location: Bel Aire Market
 Author: Brian E. Lavender
