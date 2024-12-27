@@ -1,4 +1,4 @@
-Title: December General Meeting
+Title: February General Meeting
 Tags: general meeting
 Event: 2025-02-18 6:00 pm to 8:00 pm
 Speaker: Diego Martinez
@@ -8,8 +8,6 @@ Slug: february-2025
 
 We will be at Bel Air Market at Arden. Please see the locations link to
 see the location.
-
-Diego will present Web services in Clojure with Compojure.
 
 Have you ever wanted to learn Lisp?
 
