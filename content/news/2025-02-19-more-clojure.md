@@ -8,6 +8,6 @@ Slug: march-2025
 
 More talk on Clojure! Diego will give us more details to using Clojure. It should prove interesting!
 
-Note, this meeting will be on a Wednesday and in Natomas.
+This time we will learn how to create a new endpoint, read query parameters, and learn how to use cookies in Clojure.
 
 Brian
