@@ -2,7 +2,7 @@ Title: More Clojure
 Tags: general meeting
 Event: 2025-03-19 6:30 pm to 9:00 pm
 Speaker: Diego Martinez
-Location: Bel Air Natomas
+Location: Bel Air Natomas #447
 Author: Brian E. Lavender
 Slug: march-2025
 
