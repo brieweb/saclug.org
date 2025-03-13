@@ -37,7 +37,7 @@ From the Northeast take 80 West and merge on to the Cap-City freeway (Buisness l
 
 As you are headed down 21st street, find somewhere to park; Kupros is just after Capitol ave.
 
-## <a href="https://www.raleys.com/something-extra/community/something-extra-gather">S.E.G.R.(Something Extra Gather Room)</a> at <a href="https://www.raleys.com/store/447">Bel Air Market #447</a>
+## <a href="https://www.raleys.com/something-extra/community/something-extra-gather">S.E.G.R.(Something Extra Gather Room)</a> at <a href="https://www.raleys.com/store/447">Raley's #447</a>
 
 ```
 4650 Natomas Blvd
