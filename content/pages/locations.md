@@ -37,15 +37,12 @@ From the Northeast take 80 West and merge on to the Cap-City freeway (Buisness l
 
 As you are headed down 21st street, find somewhere to park; Kupros is just after Capitol ave.
 
+## <a href="https://www.raleys.com/something-extra/community/something-extra-gather">S.E.G.R.(Something Extra Gather Room)</a> at <a href="https://www.raleys.com/store/447">Bel Air Market #447</a>
 
-## <a href="https://www.raleys.com/something-extra/community/something-extra-gather">S.E.G.R.(Something Extra Gather Room)</a> at <a href="https://www.raleys.com/store/447">Bel Air Market #</a>
-<br/>
-div itemscope itemtype="http://schema.org/PostalAddress">
-  <span itemprop="streetAddress">4650 Natomas Blvd</span><br>
-  <span itemprop="addressLocality">Sacramento</span>,
-  <span itemprop="addressRegion">CA</span>
-  <span itemprop="postalCode">95835</span><br>
-</div>
+```
+4650 Natomas Blvd
+Sacramento, CA 95835
+```
 
 ## <a href="https://www.raleys.com/something-extra/community/something-extra-gather">S.E.G.R.(Something Extra Gather Room)</a> at <a href="https://www.raleys.com/store/502">Bel Air Market #502</a>
 in the Garden of the Gods district of Arden Arcade:
