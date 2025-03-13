@@ -38,6 +38,15 @@ From the Northeast take 80 West and merge on to the Cap-City freeway (Buisness l
 As you are headed down 21st street, find somewhere to park; Kupros is just after Capitol ave.
 
 
+## <a href="https://www.raleys.com/something-extra/community/something-extra-gather">S.E.G.R.(Something Extra Gather Room)</a> at <a href="https://www.raleys.com/store/447">Bel Air Market #</a>
+<br/>
+div itemscope itemtype="http://schema.org/PostalAddress">
+  <span itemprop="streetAddress">4650 Natomas Blvd</span><br>
+  <span itemprop="addressLocality">Sacramento</span>,
+  <span itemprop="addressRegion">CA</span>
+  <span itemprop="postalCode">95835</span><br>
+</div>
+
 ## <a href="https://www.raleys.com/something-extra/community/something-extra-gather">S.E.G.R.(Something Extra Gather Room)</a> at <a href="https://www.raleys.com/store/502">Bel Air Market #502</a>
 in the Garden of the Gods district of Arden Arcade:
 <br>
@@ -53,6 +62,7 @@ in the Garden of the Gods district of Arden Arcade:
   <span itemprop="galaxy">Milky Way</span>,
   <span itemprop="superCluster">Virgo Supercluster</span><br>
   <span itemprop="superCluster">Laniakea Supercluster</span><br><br>
+
 Or if you want some earth relative coordinates:
   <br><br><span itemprop="plusCode">HJVP+VH Sacramento, California</span><br>
   <span itemprop="geoCoridinates">38.5948392,-121.3643541</span><br>
