@@ -14,6 +14,8 @@ the meeting that we should bring our own food or order food for delivery.
 
 ## C# discussion agenda
 
+Some stuff in the meeting.
+
 This is a loose collection of notes and links for our dicsussion during the meeting.
 
 * [Install the .NET SDK or the .NET Runtime on Fedora](https://learn.microsoft.com/en-us/dotnet/core/install/linux-fedora?tabs=dotnet9)
