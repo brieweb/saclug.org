@@ -19,6 +19,7 @@ This is a loose collection of notes and links for our dicsussion during the meet
 * [Install the .NET SDK or the .NET Runtime on Fedora](https://learn.microsoft.com/en-us/dotnet/core/install/linux-fedora?tabs=dotnet9)
 * [Install Visual Studio Code](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
 
+[Command line debugger](https://github.com/Samsung/netcoredbg)
 Command line project creation
 
 ```
