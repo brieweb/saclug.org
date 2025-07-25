@@ -8,6 +8,8 @@ Slug: july-2025
 
 We will discuss C# on GNU/Linux. 
 
+Many thanks to James at [Strad Meadery](http://www.stradmeadery.com/) for hosting SacLUG for the July meeting
+
 Strad Meadery graciously provided their 
 facility to us for hosting the meeting. James (from Strad Meadery) says that if we plan to eat during
 the meeting that we should bring our own food or order food for delivery.
