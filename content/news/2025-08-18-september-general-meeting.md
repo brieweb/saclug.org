@@ -1,10 +1,13 @@
 Title: September General Meeting
 Tags: general meeting
 Event: 2025-09-16 6:00 pm to 8:00 pm
-Speaker: Kevin Brisson
+Speaker: Brian E. Lavender
 Location: Bel Air #502 S.E.G.R.
 Author: Brian E. Lavender
 Slug: september-2025
 
-Kevin will present his [Byte Vision](https://github.com/kbrisso/byte-vision) local document analysis 
-tool.
+We have a change of topic for the September meeting. 
+
+Have you ever used the Liferay *Digital Experience Platform*? The next meeting, we will do a little exploring in Liferay.
+
+We will investigate [Liferay](https://liferay.dev/) [form](https://learn.liferay.com/w/dxp/low-code/forms/creating-and-managing-forms/creating-forms) creation and [special field types](https://learn.liferay.com/w/dxp/low-code/forms/developer-guide/writing-a-custom-form-field-type). 
