@@ -3,13 +3,6 @@ Slug: locations
 
 SacLUG meets at various locations
 
-## <a href="http://www.stradmeadery.com/">Strad Meadery</a>
-<div itemscope itemtype="https://schema.org/PostalAddress">
-    <span itemprop="streetAddress">2539 Mercantile Dr. Suite 1</span><br/>  
-    <span itemprop="addressLocality">Rancho Cordova</span>,  
-    <span itemprop="addressRegion">CA</span>  
-    <span itemprop="postalCode">95742</span>   
-</div>
 
 ## <a href=https://www.kuproscrafthouse.com/">Kupros Craft House</a> in Midtown Sacramento:
 <br>
@@ -103,3 +96,11 @@ area of the store. The S.E.G.R. is located behind the frosted glass doors on the
 
 **By transit:**
 <i>add some transit directions here</i>
+
+## <a href="http://www.stradmeadery.com/">Strad Meadery</a>
+<div itemscope itemtype="https://schema.org/PostalAddress">
+    <span itemprop="streetAddress">2539 Mercantile Dr. Suite 1</span><br/>  
+    <span itemprop="addressLocality">Rancho Cordova</span>,  
+    <span itemprop="addressRegion">CA</span>  
+    <span itemprop="postalCode">95742</span>   
+</div>
