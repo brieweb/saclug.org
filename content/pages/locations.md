@@ -3,6 +3,17 @@ Slug: locations
 
 SacLUG meets at various locations
 
+## Mezzanine at <a href="https://www.raleys.com/store/415">Raley's #447</a>
+
+```
+4690 Freeport Blvd.
+Sacramento CA,
+95822
+```
+
+Enter the store and go up the steps to the Mezzanine level.
+
+This store is accessible via Sac RT Route 62. 
 
 ## <a href=https://www.kuproscrafthouse.com/">Kupros Craft House</a> in Midtown Sacramento:
 <br>
